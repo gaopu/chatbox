@@ -148,14 +148,6 @@ As an open-source project, ChatBox is sustained by the contributions and support
 
 If you have any interest or ideas, please feel free to contact us at tohuangbin@gmail.com .
 
-## Buy Me a Coffee
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/benn)
-
-| Paypal | Wechat Pay | Ali Pay |
-| --- | --- | --- |
-| [**`Paypal`**](https://www.paypal.me/tobennhuang) | <img src="./doc/wechat_pay.JPG" height="240" /> | <img src="./doc/ali_pay.PNG" height="240" /> |
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Bin-Huang/chatbox&type=Date)](https://star-history.com/#Bin-Huang/chatbox&Date)
